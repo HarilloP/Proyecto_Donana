@@ -6,7 +6,7 @@
 
 <div align="center">
 
-    <img src="sources/Doñana_proyecto.png" alt="logo" width="100%">
+    ![logo](sources/Doñana_proyecto.png)
 
 </div>
 
