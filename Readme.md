@@ -4,11 +4,7 @@
 
 </div>
 
-<div align="center">
-
-    ![logo](sources/Doñana_proyecto.png)
-
-</div>
+![logo](sources/Doñana_proyecto.png)
 
 # 1- TECNOLOGÍAS USADAS:
 
