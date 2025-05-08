@@ -1,0 +1,170 @@
+,codigoespecie,nombrecomun,nombrecientifico,locId,locName,obsDt,howMany,lat,lng,obsValid,obsReviewed,locationPrivate,subId
+0,gragoo,Graylag Goose,Anser anser,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,2.0,37.13088,-6.4866788,True,False,True,S222521329
+1,egygoo,Egyptian Goose,Alopochen aegyptiaca,L2752443,Doñana PN--Caño del Guadiamar,2025-03-27 17:10,3.0,37.0764242,-6.3858607,True,False,False,S221168299
+2,comshe,Common Shelduck,Tadorna tadorna,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:16,2.0,37.1262444,-6.4857101,True,False,False,S222486339
+3,gargan,Garganey,Spatula querquedula,L3467100,Doñana PN--Marisma de El Rocío,2025-03-21 11:30,1.0,37.1262444,-6.4857101,True,False,False,S219743219
+4,norsho,Northern Shoveler,Spatula clypeata,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,60.0,37.0883912,-6.3143492,True,False,False,S222339616
+5,gadwal,Gadwall,Mareca strepera,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:09,1.0,37.1262444,-6.4857101,True,False,False,S222533852
+6,mallar3,Mallard,Anas platyrhynchos,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,4.0,37.13088,-6.4866788,True,False,True,S222521329
+7,norpin,Northern Pintail,Anas acuta,L3608836,Doñana PN--Centro de Visitantes La Rocina,2025-03-22 09:05,2.0,37.1262104,-6.4988154,True,False,False,S219924779
+8,gnwtea,Green-winged Teal,Anas crecca,L3467100,Doñana PN--Marisma de El Rocío,2025-03-27 17:36,2.0,37.1262444,-6.4857101,True,False,False,S221143654
+9,martea1,Marbled Duck,Marmaronetta angustirostris,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+10,recpoc,Red-crested Pochard,Netta rufina,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,4.0,37.13088,-6.4866788,True,False,True,S222521329
+11,compoc,Common Pochard,Aythya ferina,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,1.0,37.13088,-6.4866788,True,False,True,S222521329
+12,ferduc,Ferruginous Duck,Aythya nyroca,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,1.0,37.0883912,-6.3143492,True,False,False,S222339616
+13,whhduc1,White-headed Duck,Oxyura leucocephala,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,5.0,37.0883912,-6.3143492,True,False,False,S222339616
+14,comqua1,Common Quail,Coturnix coturnix,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,8.0,37.0883912,-6.3143492,True,False,False,S222339616
+15,relpar1,Red-legged Partridge,Alectoris rufa,L3608836,Doñana PN--Centro de Visitantes La Rocina,2025-03-31 18:48,2.0,37.1262104,-6.4988154,True,False,False,S222108283
+16,rocpig,Rock Pigeon,Columba livia,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:16,1.0,37.1262444,-6.4857101,True,False,False,S222486339
+17,cowpig1,Common Wood-Pigeon,Columba palumbus,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,2.0,37.13088,-6.4866788,True,False,True,S222521329
+18,eucdov,Eurasian Collared-Dove,Streptopelia decaocto,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,2.0,37.13088,-6.4866788,True,False,True,S222521329
+19,grscuc1,Great Spotted Cuckoo,Clamator glandarius,L22622628,Doñana PN--Martinazo,2025-04-02 12:11,2.0,37.0246714,-6.4402126,True,False,False,S222417261
+20,comcuc,Common Cuckoo,Cuculus canorus,L3608836,Doñana PN--Centro de Visitantes La Rocina,2025-03-30 13:46,1.0,37.1262104,-6.4988154,True,False,False,S221827272
+21,alpswi1,Alpine Swift,Tachymarptis melba,L918274,Doñana PN--Palacio del Acebrón,2025-03-24 17:45,1.0,37.1446507,-6.5479374,True,False,False,S220539603
+22,comswi,Common Swift,Apus apus,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,1.0,37.13088,-6.4866788,True,False,True,S222521329
+23,palswi3,Pallid Swift,Apus pallidus,L23655795,Doñana PN - Dunas moviles,2025-03-31 15:48,6.0,36.9826876,-6.5269918,True,False,False,S222058821
+24,commoo3,Eurasian Moorhen,Gallinula chloropus,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:16,2.0,37.1262444,-6.4857101,True,False,False,S222486339
+25,eurcoo,Eurasian Coot,Fulica atra,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+26,rekcoo1,Red-knobbed Coot,Fulica cristata,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,2.0,37.0883912,-6.3143492,True,False,False,S222576466
+27,purswa1,Western Swamphen,Porphyrio porphyrio,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+28,comcra,Common Crane,Grus grus,L8931940,Doñana PNat--Veta Hornito,2025-03-31 16:08,1.0,37.105796,-6.335735,True,False,False,S222079056
+29,eutkne1,Eurasian Thick-knee,Burhinus oedicnemus,L5214826,Doñana PN--Huerta Tejada,2025-03-28 16:50,2.0,37.071325,-6.28608,True,False,False,S221384083
+30,bkwsti,Black-winged Stilt,Himantopus himantopus,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:16,2.0,37.1262444,-6.4857101,True,False,False,S222486339
+31,pieavo1,Pied Avocet,Recurvirostra avosetta,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+32,euroys1,Eurasian Oystercatcher,Haematopus ostralegus,L25226111,"Doñana PN--Playa del Inglesillo, Huelva, ES-AN",2025-03-27 14:45,25.0,36.83905,-6.4129981,True,False,False,S221224280
+33,lirplo,Little Ringed Plover,Thinornis dubius,L41861669,"Doñana Natural Park, Hinojos ES-Huelva (37.1797,-6.4492)",2025-03-30 10:55,7.0,37.179744,-6.449208,True,False,True,S221733400
+34,norlap,Northern Lapwing,Vanellus vanellus,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,2.0,37.0883912,-6.3143492,True,False,False,S222339616
+35,kenplo1,Kentish Plover,Anarhynchus alexandrinus,L23655795,Doñana PN - Dunas moviles,2025-03-31 20:16,2.0,36.9826876,-6.5269918,True,False,False,S222131740
+36,batgod,Bar-tailed Godwit,Limosa lapponica,L25226111,"Doñana PN--Playa del Inglesillo, Huelva, ES-AN",2025-03-27 14:45,4.0,36.83905,-6.4129981,True,False,False,S221224280
+37,comsni,Common Snipe,Gallinago gallinago,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,3.0,37.0883912,-6.3143492,True,False,False,S222339616
+38,comsan,Common Sandpiper,Actitis hypoleucos,L11211546,Doñana PN--Curva del Muro de la FAO,2025-03-31 12:56,2.0,37.0821208,-6.4068945,True,False,False,S222067984
+39,grnsan,Green Sandpiper,Tringa ochropus,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,4.0,37.0883912,-6.3143492,True,False,False,S222339616
+40,woosan,Wood Sandpiper,Tringa glareola,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,3.0,37.0883912,-6.3143492,True,False,False,S222339616
+41,comred1,Common Redshank,Tringa totanus,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,16.0,37.0883912,-6.3143492,True,False,False,S222339616
+42,comgre,Common Greenshank,Tringa nebularia,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,4.0,37.0883912,-6.3143492,True,False,False,S222339616
+43,sander,Sanderling,Calidris alba,L23655795,Doñana PN - Dunas moviles,2025-03-31 20:16,29.0,36.9826876,-6.5269918,True,False,False,S222131740
+44,colpra,Collared Pratincole,Glareola pratincola,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+45,slbgul1,Slender-billed Gull,Chroicocephalus genei,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,26.0,37.0883912,-6.3143492,True,False,False,S222339616
+46,bkhgul,Black-headed Gull,Chroicocephalus ridibundus,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+47,yelgul1,Yellow-legged Gull,Larus michahellis,L41991598,"53 Sector C, Matalascañas, Andalucía, ES (37.006, -6.566)",2025-04-02 09:38,1.0,37.0056989,-6.5657755,True,False,True,S222407714
+48,lbbgul,Lesser Black-backed Gull,Larus fuscus,L41991598,"53 Sector C, Matalascañas, Andalucía, ES (37.006, -6.566)",2025-04-02 09:38,1.0,37.0056989,-6.5657755,True,False,True,S222407714
+49,gubter2,Gull-billed Tern,Gelochelidon nilotica,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+50,caster1,Caspian Tern,Hydroprogne caspia,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+51,whiter2,Whiskered Tern,Chlidonias hybrida,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,300.0,37.0883912,-6.3143492,True,True,False,S222339616
+52,blkter,Black Tern,Chlidonias niger,L3467100,Doñana PN--Marisma de El Rocío,2025-03-29 07:21,30.0,37.1262444,-6.4857101,True,False,False,S221436416
+53,santer1,Sandwich Tern,Thalasseus sandvicensis,L23655795,Doñana PN - Dunas moviles,2025-03-31 20:16,60.0,36.9826876,-6.5269918,True,False,False,S222131740
+54,grefla3,Greater Flamingo,Phoenicopterus roseus,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,20.0,37.13088,-6.4866788,True,False,True,S222521329
+55,litgre1,Little Grebe,Tachybaptus ruficollis,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,1.0,37.13088,-6.4866788,True,False,True,S222521329
+56,grcgre1,Great Crested Grebe,Podiceps cristatus,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+57,eargre,Eared Grebe,Podiceps nigricollis,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,2.0,37.0883912,-6.3143492,True,False,False,S222576466
+58,blasto1,Black Stork,Ciconia nigra,L11211614,Doñana PN--Casa de Bombas del Guadiamar,2025-03-26 10:50,1.0,37.0956264,-6.3739793,True,False,False,S220910999
+59,whisto1,White Stork,Ciconia ciconia,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:16,5.0,37.1262444,-6.4857101,True,False,False,S222486339
+60,norgan,Northern Gannet,Morus bassanus,L41991598,"53 Sector C, Matalascañas, Andalucía, ES (37.006, -6.566)",2025-04-02 09:38,4.0,37.0056989,-6.5657755,True,False,True,S222407714
+61,grecor,Great Cormorant,Phalacrocorax carbo,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,22.0,37.0883912,-6.3143492,True,False,False,S222339616
+62,gloibi,Glossy Ibis,Plegadis falcinellus,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,3.0,37.13088,-6.4866788,True,False,True,S222521329
+63,eurspo1,Eurasian Spoonbill,Platalea leucorodia,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,55.0,37.13088,-6.4866788,True,False,True,S222521329
+64,grebit1,Eurasian Bittern,Botaurus stellaris,L5214826,Doñana PN--Huerta Tejada,2025-03-27 18:31,1.0,37.071325,-6.28608,True,False,False,S221175243
+65,litbit1,Little Bittern,Botaurus minutus,L3467100,Doñana PN--Marisma de El Rocío,2025-03-27 18:00,2.0,37.1262444,-6.4857101,True,True,False,S221181341
+66,bcnher,Black-crowned Night Heron,Nycticorax nycticorax,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:16,7.0,37.1262444,-6.4857101,True,False,False,S222486339
+67,litegr,Little Egret,Egretta garzetta,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,8.0,37.13088,-6.4866788,True,False,True,S222521329
+68,squher1,Squacco Heron,Ardeola ralloides,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,3.0,37.0883912,-6.3143492,True,False,False,S222339616
+69,categr1,Western Cattle-Egret,Ardea ibis,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:09,1.0,37.1262444,-6.4857101,True,False,False,S222533852
+70,greegr,Great Egret,Ardea alba,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,2.0,37.13088,-6.4866788,True,False,True,S222521329
+71,graher1,Gray Heron,Ardea cinerea,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:16,3.0,37.1262444,-6.4857101,True,False,False,S222486339
+72,purher1,Purple Heron,Ardea purpurea,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+73,osprey,Osprey,Pandion haliaetus,L11211614,Doñana PN--Casa de Bombas del Guadiamar,2025-03-31 14:48,1.0,37.0956264,-6.3739793,True,False,False,S222068324
+74,bkskit1,Black-winged Kite,Elanus caeruleus,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+75,eurgri1,Eurasian Griffon,Gyps fulvus,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+76,shteag1,Short-toed Snake-Eagle,Circaetus gallicus,L2752443,Doñana PN--Caño del Guadiamar,2025-03-30 14:24,1.0,37.0764242,-6.3858607,True,False,False,S221873363
+77,booeag1,Booted Eagle,Hieraaetus pennatus,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,1.0,37.0883912,-6.3143492,True,False,False,S222339616
+78,boneag2,Bonelli's Eagle,Aquila fasciata,L8931940,Doñana PNat--Veta Hornito,2025-03-31 16:08,1.0,37.105796,-6.335735,True,False,False,S222079056
+79,wemhar1,Western Marsh Harrier,Circus aeruginosus,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:16,2.0,37.1262444,-6.4857101,True,False,False,S222486339
+80,monhar1,Montagu's Harrier,Circus pygargus,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,1.0,37.0883912,-6.3143492,True,False,False,S222339616
+81,redkit1,Red Kite,Milvus milvus,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:09,7.0,37.1262444,-6.4857101,True,False,False,S222533852
+82,blakit1,Black Kite,Milvus migrans,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,1.0,37.13088,-6.4866788,True,False,True,S222521329
+83,combuz1,Common Buzzard,Buteo buteo,L22622628,Doñana PN--Martinazo,2025-04-02 12:11,1.0,37.0246714,-6.4402126,True,False,False,S222417261
+84,webowl1,Western Barn Owl,Tyto alba,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,1.0,37.0883912,-6.3143492,True,False,False,S222339616
+85,litowl1,Little Owl,Athene noctua,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,1.0,37.0883912,-6.3143492,True,False,False,S222339616
+86,sheowl,Short-eared Owl,Asio flammeus,L8931940,Doñana PNat--Veta Hornito,2025-03-31 16:08,1.0,37.105796,-6.335735,True,False,False,S222079056
+87,hoopoe,Eurasian Hoopoe,Upupa epops,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,1.0,37.13088,-6.4866788,True,False,True,S222521329
+88,eubeat1,European Bee-eater,Merops apiaster,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,3.0,37.13088,-6.4866788,True,False,True,S222521329
+89,comkin1,Common Kingfisher,Alcedo atthis,L41764200,Pasada Del Chivo,2025-03-28 10:30,2.0,37.2185545,-6.4815596,True,False,True,S221260462
+90,eurwry,Eurasian Wryneck,Jynx torquilla,L918274,Doñana PN--Palacio del Acebrón,2025-04-01 13:40,2.0,37.1446507,-6.5479374,True,False,False,S222323119
+91,grswoo,Great Spotted Woodpecker,Dendrocopos major,L3608836,Doñana PN--Centro de Visitantes La Rocina,2025-03-28 15:43,1.0,37.1262104,-6.4988154,True,False,False,S221309912
+92,leswoo1,Lesser Spotted Woodpecker,Dryobates minor,L918274,Doñana PN--Palacio del Acebrón,2025-03-30 10:05,4.0,37.1446507,-6.5479374,True,False,False,S221735008
+93,grnwoo3,Iberian Green Woodpecker,Picus sharpei,L8656377,Doñana PNat--Ribetehilos,2025-03-29 09:31,1.0,37.1339068,-6.6605717,True,False,False,S221502432
+94,leskes1,Lesser Kestrel,Falco naumanni,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+95,eurkes,Eurasian Kestrel,Falco tinnunculus,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+96,perfal,Peregrine Falcon,Falco peregrinus,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,1.0,37.0883912,-6.3143492,True,False,False,S222339616
+97,monpar,Monk Parakeet,Myiopsitta monachus,L41623125,Seville River,2025-03-24 10:45,1.0,36.904149,-6.308349,True,False,True,S220518607
+98,ibgshr1,Iberian Gray Shrike,Lanius meridionalis,L11211546,Doñana PN--Curva del Muro de la FAO,2025-03-30 11:38,1.0,37.0821208,-6.4068945,True,False,False,S221890617
+99,wooshr1,Woodchat Shrike,Lanius senator,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,1.0,37.13088,-6.4866788,True,False,True,S222521329
+100,azwmag3,Iberian Magpie,Cyanopica cooki,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+101,eurmag1,Eurasian Magpie,Pica pica,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,2.0,37.13088,-6.4866788,True,False,True,S222521329
+102,eurjac,Eurasian Jackdaw,Coloeus monedula,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+103,comrav,Common Raven,Corvus corax,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+104,cretit2,Crested Tit,Lophophanes cristatus,L933346,Doñana PN--El Acebuche,2025-03-31 20:33,2.0,37.0442509,-6.5687513,True,False,False,S222129650
+105,blutit,Eurasian Blue Tit,Cyanistes caeruleus,L21779809,Doñana PN-- Finca El Acebuche,2025-04-01 15:10,4.0,37.058883,-6.5663857,True,False,False,S222319900
+106,gretit1,Great Tit,Parus major,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:16,2.0,37.1262444,-6.4857101,True,False,False,S222486339
+107,euptit1,Eurasian Penduline-Tit,Remiz pendulinus,L2752443,Doñana PN--Caño del Guadiamar,2025-03-30 14:24,2.0,37.0764242,-6.3858607,True,False,False,S221873363
+108,woolar1,Wood Lark,Lullula arborea,L8656377,Doñana PNat--Ribetehilos,2025-03-29 09:31,2.0,37.1339068,-6.6605717,True,False,False,S221502432
+109,skylar,Eurasian Skylark,Alauda arvensis,L5214826,Doñana PN--Huerta Tejada,2025-03-30 20:37,1.0,37.071325,-6.28608,True,False,False,S222062745
+110,thelar1,Thekla's Lark,Galerida theklae,L8931940,Doñana PNat--Veta Hornito,2025-03-31 16:08,22.0,37.105796,-6.335735,True,False,False,S222079056
+111,crelar1,Crested Lark,Galerida cristata,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:16,1.0,37.1262444,-6.4857101,True,False,False,S222486339
+112,gstlar1,Greater Short-toed Lark,Calandrella brachydactyla,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+113,callar1,Calandra Lark,Melanocorypha calandra,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,60.0,37.0883912,-6.3143492,True,False,False,S222339616
+114,mstlar1,Mediterranean Short-toed Lark,Alaudala rufescens,L11211546,Doñana PN--Curva del Muro de la FAO,2025-03-31 12:56,12.0,37.0821208,-6.4068945,True,False,False,S222067984
+115,zitcis1,Zitting Cisticola,Cisticola juncidis,L22622628,Doñana PN--Martinazo,2025-04-02 12:11,1.0,37.0246714,-6.4402126,True,False,False,S222417261
+116,melwar1,Melodious Warbler,Hippolais polyglotta,L5100143,Doñana PN--Escupidera,2025-03-28 18:17,1.0,37.1050818,-6.4160585,True,False,False,S221383927
+117,sedwar1,Sedge Warbler,Acrocephalus schoenobaenus,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,1.0,37.13088,-6.4866788,True,False,True,S222521329
+118,eurwar1,Common Reed Warbler,Acrocephalus scirpaceus,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,3.0,37.13088,-6.4866788,True,False,True,S222521329
+119,grrwar1,Great Reed Warbler,Acrocephalus arundinaceus,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+120,savwar1,Savi's Warbler,Locustella luscinioides,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,4.0,37.0883912,-6.3143492,True,False,False,S222339616
+121,banswa,Bank Swallow,Riparia riparia,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,15.0,37.13088,-6.4866788,True,False,True,S222521329
+122,barswa,Barn Swallow,Hirundo rustica,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,20.0,37.13088,-6.4866788,True,False,True,S222521329
+123,comhom1,Western House-Martin,Delichon urbicum,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,2.0,37.13088,-6.4866788,True,False,True,S222521329
+124,rerswa8,European Red-rumped Swallow,Cecropis rufula,L5214826,Doñana PN--Huerta Tejada,2025-04-01 07:57,1.0,37.071325,-6.28608,True,False,False,S222211700
+125,webwar1,Western Bonelli's Warbler,Phylloscopus bonelli,L933346,Doñana PN--El Acebuche,2025-03-30 17:16,1.0,37.0442509,-6.5687513,True,False,False,S221849825
+126,wlwwar,Willow Warbler,Phylloscopus trochilus,L3608836,Doñana PN--Centro de Visitantes La Rocina,2025-04-01 12:20,1.0,37.1262104,-6.4988154,True,False,False,S222321717
+127,comchi1,Common Chiffchaff,Phylloscopus collybita,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:16,1.0,37.1262444,-6.4857101,True,False,False,S222486339
+128,ibechi2,Iberian Chiffchaff,Phylloscopus ibericus,L3608836,Doñana PN--Centro de Visitantes La Rocina,2025-03-30 13:56,1.0,37.1262104,-6.4988154,True,False,False,S221899924
+129,cetwar1,Cetti's Warbler,Cettia cetti,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,1.0,37.13088,-6.4866788,True,False,True,S222521329
+130,lottit1,Long-tailed Tit,Aegithalos caudatus,L918274,Doñana PN--Palacio del Acebrón,2025-03-31 19:16,2.0,37.1446507,-6.5479374,True,False,False,S222116680
+131,blackc1,Eurasian Blackcap,Sylvia atricapilla,L8931959,RIncon del Pescador,2025-04-01 09:21,1.0,37.121167,-6.317908,True,False,False,S222225962
+132,sarwar1,Sardinian Warbler,Curruca melanocephala,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+133,subwar6,Western Subalpine Warbler,Curruca iberiae,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 12:28,1.0,37.0883912,-6.3143492,True,False,False,S222239398
+134,grewhi1,Greater Whitethroat,Curruca communis,L41765021,"Carril del Acebrón, Almonte ES-Huelva 37.12277, -6.49763",2025-03-28 08:14,1.0,37.122773,-6.49763,True,False,True,S221265894
+135,spewar2,Spectacled Warbler,Curruca conspicillata,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,2.0,37.0883912,-6.3143492,True,False,False,S222339616
+136,darwar1,Dartford Warbler,Curruca undata,L6486614,Doñana PN--Laguna del Jaral,2025-03-31 16:15,1.0,37.0504506,-6.6278082,True,False,False,S222081960
+137,shttre1,Short-toed Treecreeper,Certhia brachydactyla,L3608836,Doñana PN--Centro de Visitantes La Rocina,2025-04-01 12:20,5.0,37.1262104,-6.4988154,True,False,False,S222321717
+138,winwre4,Eurasian Wren,Troglodytes troglodytes,L918274,Doñana PN--Palacio del Acebrón,2025-03-31 19:16,1.0,37.1446507,-6.5479374,True,False,False,S222116680
+139,sposta1,Spotless Starling,Sturnus unicolor,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,10.0,37.13088,-6.4866788,True,False,True,S222521329
+140,misthr1,Mistle Thrush,Turdus viscivorus,L8656377,Doñana PNat--Ribetehilos,2025-03-29 09:31,2.0,37.1339068,-6.6605717,True,False,False,S221502432
+141,eurbla,Eurasian Blackbird,Turdus merula,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:16,1.0,37.1262444,-6.4857101,True,False,False,S222486339
+142,eurrob1,European Robin,Erithacus rubecula,L41765021,"Carril del Acebrón, Almonte ES-Huelva 37.12277, -6.49763",2025-03-28 08:14,1.0,37.122773,-6.49763,True,False,True,S221265894
+143,comnig1,Common Nightingale,Luscinia megarhynchos,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:16,1.0,37.1262444,-6.4857101,True,False,False,S222486339
+144,eupfly1,European Pied Flycatcher,Ficedula hypoleuca,L3608836,Doñana PN--Centro de Visitantes La Rocina,2025-03-30 13:46,1.0,37.1262104,-6.4988154,True,False,False,S221827272
+145,comred2,Common Redstart,Phoenicurus phoenicurus,L933346,Doñana PN--El Acebuche,2025-03-31 08:25,2.0,37.0442509,-6.5687513,True,False,False,S222002059
+146,blared1,Black Redstart,Phoenicurus ochruros,L3467100,Doñana PN--Marisma de El Rocío,2025-03-28 12:42,1.0,37.1262444,-6.4857101,True,False,False,S221257950
+147,whinch1,Whinchat,Saxicola rubetra,L3608836,Doñana PN--Centro de Visitantes La Rocina,2025-03-31 18:48,1.0,37.1262104,-6.4988154,True,False,False,S222108283
+148,stonec4,European Stonechat,Saxicola rubicola,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:16,2.0,37.1262444,-6.4857101,True,False,False,S222486339
+149,norwhe,Northern Wheatear,Oenanthe oenanthe,L933346,Doñana PN--El Acebuche,2025-03-30 17:16,1.0,37.0442509,-6.5687513,True,False,False,S221849825
+150,bkewhe1,Western Black-eared Wheatear,Oenanthe hispanica,L2752443,Doñana PN--Caño del Guadiamar,2025-03-30 14:24,1.0,37.0764242,-6.3858607,True,False,False,S221873363
+151,comwax,Common Waxbill,Estrilda astrild,L3608836,Doñana PN--Centro de Visitantes La Rocina,2025-03-30 13:56,2.0,37.1262104,-6.4988154,True,False,False,S221899924
+152,houspa,House Sparrow,Passer domesticus,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,5.0,37.13088,-6.4866788,True,False,True,S222521329
+153,spaspa1,Spanish Sparrow,Passer hispaniolensis,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:09,2.0,37.1262444,-6.4857101,True,False,False,S222533852
+154,eutspa,Eurasian Tree Sparrow,Passer montanus,L21779809,Doñana PN-- Finca El Acebuche,2025-04-01 15:10,6.0,37.058883,-6.5663857,True,False,False,S222319900
+155,eaywag1,Western Yellow Wagtail,Motacilla flava,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:09,14.0,37.1262444,-6.4857101,True,False,False,S222533852
+156,whiwag,White Wagtail,Motacilla alba,L42013452,"1 Mirador de la Marisma, El Rocío, Andalucía, ES (37,131, −6,487)",2025-04-02 18:40,1.0,37.13088,-6.4866788,True,False,True,S222521329
+157,tawpip1,Tawny Pipit,Anthus campestris,L11211614,Doñana PN--Casa de Bombas del Guadiamar,2025-03-25 10:34,1.0,37.0956264,-6.3739793,True,False,False,S220750011
+158,meapip1,Meadow Pipit,Anthus pratensis,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:09,2.0,37.1262444,-6.4857101,True,False,False,S222533852
+159,trepip,Tree Pipit,Anthus trivialis,L9515110,Doñana PN--Manecorro,2025-03-28 08:03,1.0,37.1228692,-6.4920752,True,False,False,S221240111
+160,watpip1,Water Pipit,Anthus spinoletta,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 12:28,2.0,37.0883912,-6.3143492,True,False,False,S222239398
+161,comcha,Common Chaffinch,Fringilla coelebs,L918274,Doñana PN--Palacio del Acebrón,2025-04-01 13:40,10.0,37.1446507,-6.5479374,True,False,False,S222323119
+162,hawfin,Hawfinch,Coccothraustes coccothraustes,L41692179,"36 Calle Sanlúcar, El Rocío, Andalucía, ES (37,128, -6,48)",2025-03-26 14:56,1.0,37.127848,-6.4800001,True,False,True,S220888181
+163,eurgre1,European Greenfinch,Chloris chloris,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-01 17:20,2.0,37.0883912,-6.3143492,True,False,False,S222339616
+164,eurlin1,Eurasian Linnet,Linaria cannabina,L7105601,Doñana PN--Area Norte (use specific hotspot if possible),2025-04-02 09:45,1.0,37.0883912,-6.3143492,True,False,False,S222576466
+165,eurgol,European Goldfinch,Carduelis carduelis,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:16,3.0,37.1262444,-6.4857101,True,False,False,S222486339
+166,eurser1,European Serin,Serinus serinus,L3467100,Doñana PN--Marisma de El Rocío,2025-04-02 16:09,2.0,37.1262444,-6.4857101,True,False,False,S222533852
+167,eursis,Eurasian Siskin,Spinus spinus,L933346,Doñana PN--El Acebuche,2025-03-20 08:04,2.0,37.0442509,-6.5687513,True,False,False,S219546448
+168,corbun1,Corn Bunting,Emberiza calandra,L22622628,Doñana PN--Martinazo,2025-04-02 12:11,1.0,37.0246714,-6.4402126,True,False,False,S222417261
