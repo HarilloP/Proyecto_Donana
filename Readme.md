@@ -6,7 +6,7 @@
 
 <div align="center">
 
-    <img src="https://github.com/sources/Doñana_proyecto.png" alt="logo" width="100%">
+    <img src="sources/Doñana_proyecto.png" alt="logo" width="100%">
 
 </div>
 
