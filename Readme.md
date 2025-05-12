@@ -10,7 +10,7 @@
 
 <div align="center"> </div>
 
-Lenguaje: Python, SQL.
+Lenguaje: Python 
 
 Librerias: numpy, pandas, plotly, folium
 
